@@ -86,7 +86,7 @@ title: "Cataloging Book Arts at UW Libraries" # Site name or title, also used in
 # logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "An online repository for documenting my Winter 2024 Directed Fieldwork experience." # Site description and default description, also used in jekyll-seo-tag
 url: "https://cspayne.github.io/dfw2024" # Site url, also used in jekyll-seo-tag
-baseurl: ""
+baseurl: "https://cspayne.github.io/dfw2024"
 repo: "https://github.com/cspayne/dfw2024"
 email: "cspayne@uw.edu"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
@@ -111,13 +111,13 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 # 9. Site navigation
 navigation_header:
 - title: Home
-  url: /dfw2024
+  url: /
 - title: Learning Outcomes
-  url: dfw2024/learningoutcomes/
+  url: learningoutcomes/
 - title: Artefacts
-  url: dfw2024/artefacts/
+  url: artefacts/
 - title: Weekly Updates
-  url: dfw2024/blog/
+  url: blog/
 # - title: Categories
 #   url: /categories/
 # - title: Search
