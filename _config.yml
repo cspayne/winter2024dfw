@@ -113,11 +113,11 @@ navigation_header:
 - title: Home
   url: /
 - title: Learning Outcomes
-  url: /learningoutcomes/
+  url: dfw2024/learningoutcomes/
 - title: Artefacts
-  url: /artefacts/
+  url: dfw2024/artefacts/
 - title: Weekly Updates
-  url: /blog/
+  url: dfw2024/blog/
 # - title: Categories
 #   url: /categories/
 # - title: Search
