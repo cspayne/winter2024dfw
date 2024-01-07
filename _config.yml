@@ -53,10 +53,10 @@ timezone: Europe/London # Timezone for blog posts and alike
 # 5. Collections
 collections:
   posts:
-    title: Weekly Updates # Needed for Siteleaf
+    title: Posts # Needed for Siteleaf
     output: true
     feature_text: |
-      feature text here
+      Weekly Updates
     feature_image: "https://picsum.photos/2560/600?image=866"
 
 # 6. Jekyll collections settings
@@ -125,14 +125,14 @@ navigation_header:
 # - title: Fork Alembic
 #   url: https://github.com/daviddarnes/alembic
 
-# navigation_footer:
-# - title: Created by David Darnes
-#   url: https://darn.es
+navigation_footer:
+- title: Created by Cypress Payne
+  # url: https://darn.es
 
 # social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
 #   Twitter: https://twitter.com/DavidDarnes
 #   LinkedIn: https://www.linkedin.com/in/daviddarnes
-#   GitHub: https://github.com/daviddarnes
+#   GitHub: https://github.com/cspayne
 #   link: https://darn.es
 #   RSS: /feed.xml
 
