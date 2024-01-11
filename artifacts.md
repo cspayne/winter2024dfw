@@ -1,8 +1,8 @@
 ---
 feature_text: |
-  Artefacts
+  Artifacts
 feature_image: "https://picsum.photos/2560/600?image=873"
-excerpt: "Artefacts"
+excerpt: "Artifacts"
 aside: true
 ---
 

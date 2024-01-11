@@ -2,7 +2,7 @@
 title: Example Post - Test
 ---
 
-This would be a test post for a weekly update. 
+This is a test post for a weekly update, and will be deleted when actual posts are made. 
 
 <!-- more -->
 

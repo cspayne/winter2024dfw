@@ -114,8 +114,8 @@ navigation_header:
   url: /
 - title: Learning Outcomes
   url: learningoutcomes/
-- title: Artefacts
-  url: artefacts/
+- title: Artifacts
+  url: artifacts/
 - title: Weekly Updates
   url: blog/
 # - title: Categories
