@@ -29,3 +29,17 @@ aside: true
 [Looking for love / Genie Shenk](https://github.com/cspayne/dfw2024/blob/main//_artifacts/original_records/1418814807_original_record.pdf)
 
 ## [NACO Updates](https://github.com/cspayne/dfw2024/tree/main/_artifacts/NACO_updates)
+
+[Weber, Marshall](https://github.com/cspayne/dfw2024/blob/main/_artifacts/NACO_updates/n%20%2097850991_naco_update.pdf)
+
+[MacCallum, Marlene](https://github.com/cspayne/dfw2024/blob/main/_artifacts/NACO_updates/nr2001035460_naco_update.pdf)
+
+[Martin, Emily](https://github.com/cspayne/dfw2024/blob/main/_artifacts/NACO_updates/No2001064907_naco_update.pdf)
+
+[Bailey, Alicia](https://github.com/cspayne/dfw2024/blob/main/_artifacts/NACO_updates/No2009133651_naco_update.pdf)
+
+[Meador, Clifton](https://github.com/cspayne/dfw2024/blob/main/_artifacts/NACO_updates/nr%2095020834_naco_update.pdf)
+
+[Jackman, Sandra](https://github.com/cspayne/dfw2024/blob/main/_artifacts/NACO_updates/No2018101031_naco_update.pdf)
+
+[Shenk, Genie](https://github.com/cspayne/dfw2024/blob/main/_artifacts/NACO_updates/nr%2098035081_naco_update.pdf)
