@@ -1,0 +1,24 @@
+---
+title: Week 4
+---
+
+Another week of cataloging! It's difficult to come up with things to write about each week because I've learned that a huge part of learning cataloging is practice. But while I am essentially going through the same motions with each artist's book I work with, they are each unique so I am encountering new aspects and rules of cataloging as I go. With each book, even as I apply what I have already learned and can now more confidently enhance and create records, I always find myself with questions. My supervisor is happy to answer these, and we often ask other catalogers with book arts experience when she is also unsure of the answer. 
+
+It seems that cataloging is a place where you are constantly learning and growing, both from the people around you and through reading the extensive documentation that exists on the web. Half the battle is finding this documentation it seems, but I hope it becomes easier to find as I continue to use it. Another challenging aspect is that some rules are difficult to find, or seem to be things that are picked up through teaching as opposed to through documentation, which can be a bit unclear at times.  
+
+This week, I'll share some of the different rules/tips I've learned so far:
+
+- Field 378 (Fuller Form of Personal Name) in NACO should always be the fullest form of the name, but if the last name is already in its fullest form, it doesn't need to appear in this field. 
+- When describing artist's books genre/form, use LCGFT and RBMSCV. If there is duplication across the two, use both. If neither vocabulary has the term needed, then look elswhere. 
+- If a genre/form term from RBMS has subdivisions that are no longer valid in a record being updated, keep that field and create a new one with the updated RBMSCV term in order to retain the information provided in those subdivisions. 
+- When describing the physical form of a book, only measure the height, and round up to the nearest cm. If the width is less than half the height, or the width is greater than the height, then record the width as well. 
+- Determining when to count the number of unnumbered pages is up to the cataloger's judgement.
+- 'o' for photographs in the 006 ills. field, and 'photographs' in the 300 field are only used for actual photographs i.e. images developed on light-sensitive paper, not for printed images, which are considered illustrations. 
+- When making an educated guess about a publication date or location, the information goes in brackets and ends in a '?'. 
+- 043 Geographic Area Code indicates the *subject* of a resource, not the publishing location.
+- Multiple vocabularies can't be used in the same field. The field should be repeated if multiple vocabularies are needed. 
+- The 260 field isn't used in RDA; 264 is used instead.
+- If the title of an artist's book comes from somewhere other than a title page, the location needs to be noded in a 500 field. 
+
+These are different rules and tips that I've noted down throughout the past few weeks, and I'm sure there will be more to come. As my supervisor has said, all of these little idiosyncrasies and minutiae ensure that catalogers will always be needed! 
+
