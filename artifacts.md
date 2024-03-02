@@ -22,11 +22,26 @@ aside: true
 
 [Sporting a giant fly head / Clifton Meador](https://github.com/cspayne/dfw2024/blob/main/_artifacts/enhanced_records/806493731_enhanced_record.pdf)
 
+[Fond / Sarah Bryant](https://github.com/cspayne/dfw2024/blob/main//_artifacts/enhanced_records/820964443_enhanced_record.pdf)
+
+[Don't cut your hair it's beautiful / Kellee Morgado](https://github.com/cspayne/dfw2024/blob/main//_artifacts/enhanced_records/1246672549_enhanced_record.pdf)
+
+[Whisper, visit, morning / Margrit Magnusdottir](https://github.com/cspayne/dfw2024/blob/main//_artifacts/enhanced_records/52761288_enhanced_record.pdf)
+
+[Why the South demands corrected textbooks / Katharine Buckley](https://github.com/cspayne/dfw2024/blob/main//_artifacts/enhanced_records/1353299383_enhanced_record.pdf)
+
+[Without consensus / Elsi Vassdal Ellis (BIBCO Authenticated)](https://github.com/cspayne/dfw2024/blob/main//_artifacts/enhanced_records/978280923_enhanced_record_bibco.pdf)
+
 ## [Original OCLC Records](https://github.com/cspayne/dfw2024/tree/main/_artifacts/original_records)
 
 [Corona virus drawings 2020 / Sandra Jackman](https://github.com/cspayne/dfw2024/blob/main/_artifacts/original_records/1418814683_original_record.pdf)
 
-[Looking for love / Genie Shenk](https://github.com/cspayne/dfw2024/blob/main//_artifacts/original_records/1418814807_original_record.pdf)
+[Looking for love / Genie Shenk](https://github.com/cspayne/dfw2024/blob/main/_artifacts/original_records/1418814807_original_record.pdf)
+
+[Cutting Edge Books: October 23 - November 29, 2007, The University Art Gallery at Cal State East Bay / curated by Michael Henninger, Priscilla Otani and Tanya Wilkinson](https://github.com/cspayne/dfw2024/blob/main/_artifacts/original_records/1420092712_original_record.pdf)
+
+[Feminist Art Project : Seattle, 1978-1979 / The Feminist Art Project](https://github.com/cspayne/dfw2024/blob/main/_artifacts/original_records/1422745924_original_record_homoit.pdf):rainbow:
+
 
 ## [NACO Updates](https://github.com/cspayne/dfw2024/tree/main/_artifacts/NACO_updates)
 
@@ -43,3 +58,16 @@ aside: true
 [Jackman, Sandra](https://github.com/cspayne/dfw2024/blob/main/_artifacts/NACO_updates/No2018101031_naco_update.pdf)
 
 [Shenk, Genie](https://github.com/cspayne/dfw2024/blob/main/_artifacts/NACO_updates/nr%2098035081_naco_update.pdf)
+
+[Wilkinson, Tanya](https://github.com/cspayne/dfw2024/blob/main/_artifacts/NACO_updates/n%20%2096043768_naco_update.pdf)
+
+[Buckley, Katharine](https://github.com/cspayne/dfw2024/blob/main/_artifacts/NACO_updates/No2023113852_naco_update.pdf)
+
+[Ellis, Elsi Vassdal](https://github.com/cspayne/dfw2024/blob/main/_artifacts/NACO_updates/n%20%2086857992_naco_update.pdf)
+
+## [New NACO](https://github.com/cspayne/dfw2024/tree/main/_artifacts/new_NACO)
+
+[Otani, Priscilla](https://github.com/cspayne/dfw2024/blob/main/_artifacts/new_NACO/No2024013693_new_naco.pdf)
+
+[Keleman, Aubri Aleka - Suggestions for improving the heart and its workings (Work)](https://github.com/cspayne/dfw2024/blob/main/_artifacts/new_NACO/No2024019142_new_naco_work.pdf)
+
