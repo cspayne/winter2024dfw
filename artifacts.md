@@ -24,15 +24,15 @@ aside: true
 
 [Sporting a giant fly head / Clifton Meador](https://github.com/cspayne/dfw2024/blob/main/_artifacts/enhanced_records/806493731_enhanced_record.pdf)
 
-[Fond / Sarah Bryant](https://github.com/cspayne/dfw2024/blob/main//_artifacts/enhanced_records/820964443_enhanced_record.pdf)
+[Fond / Sarah Bryant](https://github.com/cspayne/dfw2024/blob/main/_artifacts/enhanced_records/820964443_enhanced_record.pdf)
 
-[Don't cut your hair it's beautiful / Kellee Morgado](https://github.com/cspayne/dfw2024/blob/main//_artifacts/enhanced_records/1246672549_enhanced_record.pdf)
+[Don't cut your hair it's beautiful / Kellee Morgado](https://github.com/cspayne/dfw2024/blob/main/_artifacts/enhanced_records/1246672549_enhanced_record.pdf)
 
-[Whisper, visit, morning / Margrit Magnusdottir](https://github.com/cspayne/dfw2024/blob/main//_artifacts/enhanced_records/52761288_enhanced_record.pdf)
+[Whisper, visit, morning / Margrit Magnusdottir](https://github.com/cspayne/dfw2024/blob/main/_artifacts/enhanced_records/52761288_enhanced_record.pdf)
 
-[Why the South demands corrected textbooks / Katharine Buckley](https://github.com/cspayne/dfw2024/blob/main//_artifacts/enhanced_records/1353299383_enhanced_record.pdf)
+[Why the South demands corrected textbooks / Katharine Buckley](https://github.com/cspayne/dfw2024/blob/main/_artifacts/enhanced_records/1353299383_enhanced_record.pdf)
 
-[Without consensus / Elsi Vassdal Ellis (BIBCO Authenticated)](https://github.com/cspayne/dfw2024/blob/main//_artifacts/enhanced_records/978280923_enhanced_record_bibco.pdf)
+[Without consensus / Elsi Vassdal Ellis (BIBCO Authenticated)](https://github.com/cspayne/dfw2024/blob/main/_artifacts/enhanced_records/978280923_enhanced_record_bibco.pdf):rainbow:
 
 ## [Original OCLC Records](https://github.com/cspayne/dfw2024/tree/main/_artifacts/original_records)
 
