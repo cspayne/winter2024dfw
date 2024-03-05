@@ -28,7 +28,7 @@ aside: true
 
 [Don't cut your hair it's beautiful / Kellee Morgado](https://github.com/cspayne/dfw2024/blob/main/_artifacts/enhanced_records/1246672549_enhanced_record.pdf)
 
-[Whisper, visit, morning / Margrit Magnusdottir](https://github.com/cspayne/dfw2024/blob/main/_artifacts/enhanced_records/52761288_enhanced_record.pdf)
+[Whisper, visit, morning /  Margrít Magnúsdóttir](https://github.com/cspayne/dfw2024/blob/main/_artifacts/enhanced_records/52761288_enhanced_record.pdf)
 
 [Why the South demands corrected textbooks / Katharine Buckley](https://github.com/cspayne/dfw2024/blob/main/_artifacts/enhanced_records/1353299383_enhanced_record.pdf)
 
