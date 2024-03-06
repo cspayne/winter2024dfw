@@ -34,6 +34,12 @@ aside: true
 
 [Without consensus / Elsi Vassdal Ellis (BIBCO Authenticated)](https://github.com/cspayne/dfw2024/blob/main/_artifacts/enhanced_records/978280923_enhanced_record_bibco.pdf):rainbow:
 
+[Mar Goman / Mar Goman](https://github.com/cspayne/dfw2024/blob/main/_artifacts/enhanced_records/81353789_enhanced_record.pdf)
+
+[Fenway Park / Laura Davidson (BIBCO Authenticated)](https://github.com/cspayne/dfw2024/blob/main/_artifacts/enhanced_records/639015374_enhanced_record_bibco.pdf)
+
+[We've been holding this sign for 100 years / Laura Davidson](https://github.com/cspayne/dfw2024/blob/main/_artifacts/enhanced_records/1264753175_enhanced_record.pdf)
+
 ## [Original OCLC Records](https://github.com/cspayne/dfw2024/tree/main/_artifacts/original_records)
 
 [Corona virus drawings 2020 / Sandra Jackman](https://github.com/cspayne/dfw2024/blob/main/_artifacts/original_records/1418814683_original_record.pdf)
@@ -67,9 +73,17 @@ aside: true
 
 [Ellis, Elsi Vassdal](https://github.com/cspayne/dfw2024/blob/main/_artifacts/NACO_updates/n%20%2086857992_naco_update.pdf)
 
+[Goman, Mar](https://github.com/cspayne/dfw2024/blob/main/_artifacts/NACO_updates/nr%2000033116%20_naco_update.pdf)
+
+[Davidson, Laura](https://github.com/cspayne/dfw2024/blob/main/_artifacts/NACO_updates/no%2093011428_naco_update.pdf)
+
 ## [New NACO](https://github.com/cspayne/dfw2024/tree/main/_artifacts/new_NACO)
 
 [Otani, Priscilla](https://github.com/cspayne/dfw2024/blob/main/_artifacts/new_NACO/No2024013693_new_naco.pdf)
 
 [Keleman, Aubri Aleka - Suggestions for improving the heart and its workings (Work)](https://github.com/cspayne/dfw2024/blob/main/_artifacts/new_NACO/No2024019142_new_naco_work.pdf)
+
+[Feminist Art Project (Artist collective)](https://github.com/cspayne/dfw2024/blob/main/_artifacts/new_NACO/No2024025254_new_naco_corporate_body.pdf)
+
+[Feminist Art Project Press](https://github.com/cspayne/dfw2024/blob/main/_artifacts/new_NACO/No2024025258_new_naco_corporate_body.pdf)
 
