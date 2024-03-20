@@ -40,6 +40,10 @@ aside: true
 
 [We've been holding this sign for 100 years / Laura Davidson](https://github.com/cspayne/dfw2024/blob/main/_artifacts/enhanced_records/1264753175_enhanced_record.pdf)
 
+[Mallard / Jesse DeLong](https://github.com/cspayne/dfw2024/blob/main/_artifacts/enhanced_records/857243976_enhanced_record.pdf)
+
+[Collaborations / John Hastings & Charlotte Murray](https://github.com/cspayne/dfw2024/blob/main/_artifacts/enhanced_records/1057363255_enhanced_record.pdf)
+
 ## [Original OCLC Records](https://github.com/cspayne/dfw2024/tree/main/_artifacts/original_records)
 
 [Corona virus drawings 2020 / Sandra Jackman](https://github.com/cspayne/dfw2024/blob/main/_artifacts/original_records/1418814683_original_record.pdf)
@@ -77,6 +81,8 @@ aside: true
 
 [Davidson, Laura](https://github.com/cspayne/dfw2024/blob/main/_artifacts/NACO_updates/no%2093011428_naco_update.pdf)
 
+[Rossow, Sonja Greentree](https://github.com/cspayne/dfw2024/blob/main/_artifacts/NACO_updates/no2012062992_naco_update.pdf)
+
 ## [New NACO](https://github.com/cspayne/dfw2024/tree/main/_artifacts/new_NACO)
 
 [Otani, Priscilla](https://github.com/cspayne/dfw2024/blob/main/_artifacts/new_NACO/No2024013693_new_naco.pdf)
@@ -86,4 +92,14 @@ aside: true
 [Feminist Art Project (Artist collective)](https://github.com/cspayne/dfw2024/blob/main/_artifacts/new_NACO/No2024025254_new_naco_corporate_body.pdf)
 
 [Feminist Art Project Press](https://github.com/cspayne/dfw2024/blob/main/_artifacts/new_NACO/No2024025258_new_naco_corporate_body.pdf)
+
+[Charlton, Rob](https://github.com/cspayne/dfw2024/blob/main/_artifacts/new_NACO/No2024025300_new_naco.pdf)
+
+[Goosefish Press](https://github.com/cspayne/dfw2024/blob/main/_artifacts/new_NACO/No2024027091_new_naco_corporate_body.pdf)
+
+## [SACO Proposals](https://github.com/cspayne/dfw2024/tree/main/_artifacts/SACO_proposals)
+
+[Political posters, Canadian](https://github.com/cspayne/dfw2024/blob/main/_artifacts/SACO_proposals/PoliticalPostersCanadian.pdf)
+
+[Etch A Sketch (Trademark)](https://github.com/cspayne/dfw2024/blob/main/_artifacts/SACO_proposals/EtchASketch.pdf)
 
