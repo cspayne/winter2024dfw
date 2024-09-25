@@ -86,7 +86,7 @@ title: "Cataloging Book Arts at UW Libraries" # Site name or title, also used in
 # logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "An online repository for documenting my Winter 2024 Directed Fieldwork experience." # Site description and default description, also used in jekyll-seo-tag
 url: "https://cspayne.github.io/winter2024dfw" # Site url, also used in jekyll-seo-tag
-baseurl: "/dfw2024"
+baseurl: "/winter2024dfw"
 repo: "https://github.com/cspayne/winter2024dfw"
 email: "cspayne@uw.edu"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
